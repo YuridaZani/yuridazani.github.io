@@ -7,25 +7,18 @@
 - Manajemen keuangan pribadi
 - Pelacakan pengeluaran dan pendapatan
 - Visualisasi data keuangan
-- ... (tambahkan fitur lainnya sesuai kebutuhan)
 
 ## Teknologi yang Digunakan
 - HTML, CSS, dan JavaScript untuk frontend
 - PHP dan MySQL untuk backend
-- ... (tambahkan teknologi lainnya yang digunakan)
-
-## Cara Menjalankan
-1. Clone repositori ini.
-2. Buat database MySQL.
-3. Konfigurasi file koneksi database.
-4. Jalankan server lokal.
-5. Buka website melalui browser.
+- Boostrap
+- Menggunakan template AdminLTE pada halaman dashboard
 
 ## Anggota Kelompok
-- Anggota 1
-- Anggota 2
-- Anggota 3
-- ... (tambahkan nama anggota kelompok lainnya)
+- Yurida Zani
+- Aulia Zamaira
+- Muhammad Dwiki Rahmadani
+- Dimas Hammam Abdillah
 
 ## Lisensi
 Proyek ini berlisensi di bawah MIT License - lihat file LICENSE untuk detail.
